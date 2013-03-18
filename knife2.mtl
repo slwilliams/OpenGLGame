@@ -1,0 +1,16 @@
+# Blender MTL File: ''
+# Material Count: 1
+newmtl Knife_D_MAT_Knife_D.tga_Knife_D.tga
+Ns 3.921569
+Ka 0.000000 0.000000 0.000000
+Kd 0.376320 0.376320 0.376320
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Knife_D.tga
+map_Bump Knife_N.tga
+map_Ks Knife_S.tga
+map_Ka Knife_D.tga
+
+
